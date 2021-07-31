@@ -1,0 +1,41 @@
+Bank Account Application Fields
+
+Personal----
+
+First Name - txt
+Middle Name - txt
+Last Name  - txt
+Date Of Birth - dtp
+SSN - mtb
+Gender - rad
+------------
+
+Account-----
+
+Account Number - txt
+Account PIN - txt
+Open Date - dtp
+Account Balance - mtb
+Routing Number - txt
+Account Type - lst
+
+--------------
+
+Card---------
+
+Card Type 1 - rad
+Card Type 2 - ddl
+Card Number - mtb 
+Card Valid Thru - dtp
+Card CVV - txt
+
+-------------
+
+Contact----
+
+Phone  - mtb 
+Email - txt
+St Address - txt
+City - txt
+State - ddl
+Zip Code - txt

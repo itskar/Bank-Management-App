@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<accountType>
+	<type>Checking Account</type>
+	<type>Savings Account</type>
+	<type>Certificate of Deposit (CD)</type>
+	<type>Money Market Account</type>
+	<type>Individual Retirement Account(IRA)</type>
+	<type>Brokerage Account</type>
+</accountType>

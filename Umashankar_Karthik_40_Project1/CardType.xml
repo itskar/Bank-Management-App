@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cardType>
+	<credit>Wells Fargo Platinum Card</credit>
+	<credit>Wells Fargo Cash Wise Visa® Card</credit>
+	<credit>Wells Fargo Propel American Express® Card</credit>
+	<credit>Wells Fargo Visa Signature® Card</credit>
+	<credit>Wells Fargo Cash Back CollegeSM Card</credit>
+	<credit>Wells Fargo Rewards® Card</credit>	
+	<debit>Wells Fargo Debit Card</debit>
+	<debit>Wells Fargo Instant Issue Debit Card</debit>
+	<debit>Wells Fargo Campus Card</debit>	
+</cardType>
